@@ -1,2 +1,3 @@
 # My-LaTeX-Themes
-LaTeX themes I use
+
+$\LaTeX$ themes I use
